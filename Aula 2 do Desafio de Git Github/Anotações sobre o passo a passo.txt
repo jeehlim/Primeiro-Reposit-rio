@@ -1,0 +1,7 @@
+Primeiro passo criar o repositório
+Segundo passo: copiar o link do repositório
+Terceiro passo:crio uma pasta em branco na minha máquina
+Quarto passo: abro o Git Bash, colocar o comando git clone e colar o link
+Quinto passo: conferir na maquina se foi criada a pasta
+Sexto passo: colocar o comando cd + o nome do repositório
+Sétima passo: colocar o comando git status e conferir se está dentro do repositório
